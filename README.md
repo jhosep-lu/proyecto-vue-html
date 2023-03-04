@@ -1,4 +1,4 @@
-# PRACTICA II MODULO 5
+# PRACTICA II MODULO 6
 
 ## Requisitos
 Necesitaras tener instalado Node.js y npm en tu máquina. También necesitarás tener una base de datos en formato JSON que contenga los datos que se utilizarán para crear la API.
@@ -31,5 +31,7 @@ Para acceder a un endpoint específico en la API, agrega el nombre del recurso d
 
 
   Resources
+  
   http://localhost:5000/producto
+  
   http://localhost:5000/productosRelacionados
